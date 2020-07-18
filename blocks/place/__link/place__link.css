@@ -1,0 +1,14 @@
+.place__link {
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height, or 122% */
+  color: #FFFFFF;
+  transition: all 0.4s;
+  opacity:1
+
+ }
+
+.place__link:hover {
+  opacity:0.8;
+
+}

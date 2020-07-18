@@ -1,0 +1,39 @@
+.place {
+  list-style-type: none;
+ }
+
+ @media screen and (min-width: 768px) {
+   .place {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 28px;
+    grid-row-gap: 48px;
+    padding-top: 72px;
+   }
+
+
+}
+
+@media screen and (min-width: 1024px) {
+  .place {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 32px;
+    grid-row-gap: 48px;
+    padding-top: 84px;
+   }
+
+
+}
+
+@media screen and (min-width: 1280px) {
+  .place {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 40px;
+    grid-row-gap: 48px;
+    padding-top: 80px;
+   }
+
+
+}

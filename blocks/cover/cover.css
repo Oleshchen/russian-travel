@@ -1,0 +1,39 @@
+.cover {
+  min-width: 320px;
+  min-height: 200px;
+
+
+
+}
+
+@media screen and (min-width: 768px) {
+  .cover {
+    min-width: 768px;
+    min-height: 480px;
+    padding-top: 88px;
+  }
+
+
+}
+
+@media screen and (min-width: 1024px) {
+  .cover {
+    min-width: 1024px;
+    min-height: 640px;
+    padding-top: 92px;
+
+  }
+
+
+}
+
+@media screen and (min-width: 1280px) {
+  .cover {
+    min-width: 1184px;
+    min-height: 740px;
+    padding: 92px 48px 0 48px;
+  }
+
+
+}
+
