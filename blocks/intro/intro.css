@@ -4,6 +4,7 @@
   align-self: start;
   padding: 0px 16px 64px 16px;
   margin: 0;
+  box-sizing: border-box;
 
 }
 
@@ -29,7 +30,7 @@
 @media screen and (min-width: 1280px) {
   .intro {
     padding: 0px 442px 92px 148px;
-    
+
   }
 
 

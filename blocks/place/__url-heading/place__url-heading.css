@@ -13,30 +13,12 @@
     letter-spacing: 0.2em;
 
     color: #AAAAAA;
-    
-    padding-bottom: 12px;
-  }
-
-
-
-}
-
-@media screen and (min-width: 1024px) {
-  .place__url-heading {
-
 
     padding-bottom: 12px;
   }
 
 
-}
-
-@media screen and (min-width: 1280px) {
-  .place__url-heading {
-
-
-    padding: 0;
-  }
-
 
 }
+
+
