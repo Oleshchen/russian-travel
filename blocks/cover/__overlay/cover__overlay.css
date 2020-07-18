@@ -2,15 +2,12 @@
 
   position: relative;
   z-index: 1;
-  background-image: url("../../../images/cover-image.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   text-decoration: none;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
 
 }
 
@@ -24,7 +21,7 @@
   height: 100%;
   background-color: #2A2C2F;
   opacity: 0.3;
-  z-index: -1;
+  z-index: 0;
   transition: opacity 200ms ease-in-out;
 
 
@@ -32,6 +29,7 @@
 
 .cover__overlay:hover {
   opacity: 0.8;
+  background-color: #2A2C2F;
 }
 
 
