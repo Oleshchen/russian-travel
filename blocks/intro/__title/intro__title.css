@@ -11,7 +11,16 @@
     font-size: 54px;
     line-height: 58px;
     /* identical to box height, or 107% */
+    padding-top: 88px;
   }
 }
+
+@media screen and (min-width: 1024px) {
+  .intro__title {
+    padding-top: 92px;
+  }
+}
+
+
 
 
