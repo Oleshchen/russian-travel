@@ -13,7 +13,6 @@
 @media screen and (min-width: 768px) {
   .lead__caption {
     padding: 8px 0 0 24px;
-
   }
 
 
@@ -21,8 +20,7 @@
 
 @media screen and (min-width: 1024px) {
   .lead__caption {
-    padding: 8px 0 0 0;
-
+    padding-left: 24px;
   }
 
 

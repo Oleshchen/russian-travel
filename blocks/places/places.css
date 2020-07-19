@@ -10,7 +10,6 @@
   .places {
 
     padding: 0 24px;
-
   }
 
 
@@ -18,9 +17,7 @@
 
 @media screen and (min-width: 1024px) {
   .places {
-
     padding: 0 48px;
-
   }
 
 
@@ -28,12 +25,7 @@
 
 @media screen and (min-width: 1280px) {
   .places {
-
     padding: 0 148px;
-
   }
-
-
-
 }
 
