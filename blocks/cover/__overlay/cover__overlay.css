@@ -1,5 +1,4 @@
 .cover__overlay {
-
   position: relative;
   z-index: 1;
   text-decoration: none;
@@ -7,8 +6,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
-
 }
 
 .cover__overlay:before {
@@ -23,12 +20,9 @@
   opacity: 0.3;
   z-index: 0;
   transition: opacity 200ms ease-in-out;
-
-
 }
 
 .cover__overlay:hover {
-
   background-color:  rgba(0,0,0,.6);
 }
 

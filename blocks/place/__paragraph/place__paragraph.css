@@ -1,10 +1,8 @@
 .place__paragraph {
   font-size: 16px;
   line-height: 26px;
-/* or 162% */
   padding: 14px 16px;
   margin: 0;
-
 }
 
 @media screen and (min-width: 768px) {
@@ -13,33 +11,14 @@
   }
   .place__paragraph:last-child {
     padding: 0;
-
   }
 }
 
 @media screen and (min-width: 1024px) {
   .place__paragraph {
-    font-style: normal;
-    font-weight: normal;
     font-size: 18px;
     line-height: 30px;
-    padding: 0 0 24px 0;
-
-  }
-  .place__paragraph:last-child {
-    padding: 0;
   }
 }
 
-@media screen and (min-width: 1280px) {
-  .place__paragraph {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 30px;
 
-}
-  .place__paragraph:last-child {
-    padding: 0;
-  }
-}

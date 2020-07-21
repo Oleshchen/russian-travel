@@ -4,8 +4,8 @@
 }
 
 @media screen and (min-width: 768px) {
-  .place__image{
-  min-width: 340px;
+  .place__image {
+    min-width: 340px;
   }
 }
 

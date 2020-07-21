@@ -4,10 +4,8 @@
   color: #FFFFFF;
   transition: all 0.4s;
   opacity:1
-
- }
+}
 
 .place__link:hover {
   opacity:0.8;
-
 }

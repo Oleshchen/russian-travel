@@ -4,23 +4,20 @@
   justify-content: center;
   margin: 0;
   padding: 0;
+  max-width: 984px;
 }
 
 @media screen and (min-width: 768px) {
   .places {
-
     padding: 0 24px;
+    margin: 0 auto;
   }
-
-
 }
 
 @media screen and (min-width: 1024px) {
   .places {
     padding: 0 48px;
   }
-
-
 }
 
 @media screen and (min-width: 1280px) {
